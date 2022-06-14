@@ -11,7 +11,7 @@
 </div>
 
 ## Hey 👋, This is Rendez Repo
-[![Gmail Badge](https://img.shields.io/badge/-bagusmahardhika71@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bagusmahardhika71@gmail.com)](mailto: bagusmahardhika71@gmail.com) 
+![Gmail Badge](https://img.shields.io/badge/-bagusmahardhika71@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=https://mailto:bagusmahardhika71@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Rendezvous07-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Rendezvous07/)](https://www.github.com/Rendezvous07/) <p align='left'>Hanya sekedar untuk bersenang-senang</p><p align='left'> Join My Telegram Channel <a href='https://t.me/Rendez_Official' target=_blank><u>Here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Rendezvous07 alt=Rendezvous07 /> </p>
